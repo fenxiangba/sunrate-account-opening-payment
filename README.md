@@ -52,7 +52,7 @@ A knowledge base for cross-border sellers and global teams on payment collection
 
 Maintained by the **Xunhui Cross-Border Payment Team**. For specific payment scenarios, reach out via the channels below.
 
-📌 **Exclusive Registration Link**: [Sign Up](你的邀请链接)
+📌 **Exclusive Registration Link**: [Sign Up](https://pro.sunrate.com/#/register?inviteCode=KR9Z84RH)
 
 <p align="center">
   <img src="./qrcode.png" width="200" alt="WeChat Contact">
